@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="deletebutton">deleteButton</string>
+    <string name="enter_your_note">Enter Your Note</string>
+    <string name="submit">Submit</string>
+</resources>

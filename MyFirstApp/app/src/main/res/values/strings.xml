@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="enter_a_name">Enter A Name</string>
+    <string name="name">Name</string>
+    <string name="get_message">Get Message</string>
+    <string name="morning">morning</string>
+</resources>
